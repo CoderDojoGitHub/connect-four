@@ -9,30 +9,8 @@ to the bottom of a column with stacking, and calculating if our game is finished
 Time permitted we have some additional items that students will be encouraged to
 work on in a more free-style type class.
 
-
-### Prereqs - Installing Shoes and a text editor
-
-On windows, download and unzip **Shoes 3 +video for Windows**
-* [http://github.com/downloads/shoes/shoes/shoes3.exe.zip](http://github.com/downloads/shoes/shoes/shoes3.exe.zip)
-
-Download and install **Notepad++**
-* [http://download.tuxfamily.org/notepadplus/6.1.3/npp.6.1.3.Installer.exe](http://download.tuxfamily.org/notepadplus/6.1.3/npp.6.1.3.Installer.exe)
-
-#### Mac OSX
-
-On Mac OSX 10.6 (Snow Leopard) and 10.7 (Lion), download **Shoes 3**.
-Open the dmg file, and copy the Shoes app to your computer.
-* https://github.com/downloads/shoes/shoes/shoes-3.1.0.dmg
-
-Download and open **Text Wrangler**
-* http://ash.barebones.com/TextWrangler_4.0.1.dmg
-
-*NOTE* Windows users cannot do alert inside of an animate block. change `animate do`
-to `click do` or `if button == 1` calls to a `click do` call
-
 ### Previous instructions
-If you weren't with us last time, that's ok! You can
-###[download it here](https://github.com/brntbeer/Lesson-Plans/blob/master/shoes/connect-four/connect-four.rb).
+If you weren't with us last time, that's ok! You can [copy it from here](https://github.com/CoderDojoSF/connect-four/blob/master/lesson1/connect-four.rb).
 
 # Keeping track of columns
 It's true we have a fixed number of columns to use for this game, but how might we
