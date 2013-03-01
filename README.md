@@ -2,6 +2,15 @@
 
 Build a simple Connect Four game in Ruby with Shoes™
 
+## Sub-Lessons
+This lesson consist of two sub-lessons
+
+  * [Lesson 1](https://github.com/CoderDojoSF/connect-four/tree/master/lesson1)
+  * [Lesson 2](https://github.com/CoderDojoSF/connect-four/tree/master/lesson2)
+
+The second lesson builds off of the first one and should be done after completing
+the first.
+
 ### Prereqs - Installing Shoes and a text editor
 
 On windows, download and unzip **Shoes 3 +video for Windows**
