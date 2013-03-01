@@ -1,7 +1,7 @@
-#Connect Four
+# Lesson 1
 
 Today we're going to be taking similar work that we've done in the past and turn
-it into a different game. If you were with us a few weeks ago, we built a [memory game](https://github.com/kevinclark/Lesson-Plans/shoes/memory-2.md)
+it into a different game. In a different lesson, we built a [memory game](https://github.com/CoderDojoSF/memory/blob/master/lesson2/memory-2.md)
 using Shoes, and that's what we're going to also use today. We're going to expand on
 the idea of the memory game and begin making another game from it that you can
 play with a friend: Connect Four.
@@ -14,27 +14,6 @@ This game is going to be a little much for one session, so we're going to break 
 two sessions. Today we're going to start at understanding how the game board is 
 constructed, and work towards placing pieces at a given location. There's room at the
 end to go past that, but that's our goal.
-
-
-### Prereqs - Installing Shoes and a text editor
-
-On windows, download and unzip **Shoes 3 +video for Windows**
-* [http://github.com/downloads/shoes/shoes/shoes3.exe.zip](http://github.com/downloads/shoes/shoes/shoes3.exe.zip)
-
-Download and install **Notepad++**
-* [http://download.tuxfamily.org/notepadplus/6.1.3/npp.6.1.3.Installer.exe](http://download.tuxfamily.org/notepadplus/6.1.3/npp.6.1.3.Installer.exe)
-
-#### Mac OSX
-
-On Mac OSX 10.6 (Snow Leopard) and 10.7 (Lion), download **Shoes 3**.
-Open the dmg file, and copy the Shoes app to your computer.
-* https://github.com/downloads/shoes/shoes/shoes-3.1.0.dmg
-
-Download and open **Text Wrangler**
-* http://ash.barebones.com/TextWrangler_4.0.1.dmg
-
-*NOTE* Windows users cannot do alert inside of an animate block. change `animate do`
-to `click do` or `if button == 1` calls to a `click do` call
 
 ## Get started with an intro app
 ```ruby
